@@ -1,0 +1,28 @@
+/* Simple, clean styling */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f3f3f3;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  section {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
